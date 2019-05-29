@@ -1,2 +1,0 @@
-# useClippy
-Created with CodeSandbox
